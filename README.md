@@ -75,10 +75,12 @@ xor g5(y5,a,b);
 not g6(y6,a);
 endmodule
  
-**Logic symbol & Truthtable**![WhatsApp Image 2025-10-03 at 08 42 10_9a406f59](https://github.com/user-attachments/assets/78298c2b-b0f0-4702-b8ed-156c8b1bee87)
+**Logic symbol & Truthtable**
+![WhatsApp Image 2025-10-03 at 08 42 10_9a406f59](https://github.com/user-attachments/assets/78298c2b-b0f0-4702-b8ed-156c8b1bee87)
 
 
-**RTL realization Output:** <img width="446" height="420" alt="Screenshot 2025-10-07 084245" src="https://github.com/user-attachments/assets/9cb12a4d-9711-408e-8ac1-9c20e1866771" />
+**RTL realization Output:**
+<img width="446" height="420" alt="Screenshot 2025-10-07 084245" src="https://github.com/user-attachments/assets/9cb12a4d-9711-408e-8ac1-9c20e1866771" />
 
 
 **RTL**
